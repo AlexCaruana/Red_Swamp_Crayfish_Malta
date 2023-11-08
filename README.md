@@ -1,4 +1,4 @@
-# Assessment of Red Swamp Crayfish presence, distribution and abundance within the Fiddien valley system (Malta).
+# Mechanical excavation of wetland habitat failed to eradicate invasive American red swamp crayfish (Procambarus clarkii) in Malta.
 
 ## Abstract
 1.	Invasive crayfish are an important ecological concern in many freshwater ecosystems. Many efforts have been made to eradicate them but there is very little documentation of the effectiveness of these efforts. Between 2019 to 2020, a restoration project funded by the European Regional Development Fund tried to eradicate invasive American Red Swamp Crayfish Procambarus clarkii from the Fiddien Valley system in Malta by mechanically excavating the valley’s stream bed and exporting contaminated debris securely off-site to a dry quarry.
